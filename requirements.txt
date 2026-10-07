@@ -1,0 +1,12 @@
+# Install CPU-only torch FIRST (see README/setup steps), then this file.
+sentence-transformers
+psycopg[binary]
+pgvector
+pypdf
+pydantic-settings
+python-dotenv
+fastapi
+uvicorn[standard]
+anthropic
+pytest
+ruff
